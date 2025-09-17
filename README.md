@@ -1,4 +1,4 @@
-# ESP32-Samsung-BLE-Spammer
+# 📡ESP32-Samsung-BLE-Spammer
 A tool that spams samsung BLE devices.
 
 # 👍Recommended
