@@ -39,4 +39,11 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 17. Select the correct port number of that board.
 18. Upload the code.
    - Wait for sometime to upload.
-19. Done! It starts spamming automatically.
+19. Done!
+
+# ⚙🏃🏻‍♂️Run `ESP32-Samsung-BLE-Spammer`
+1. Open Serial Console from [here](https://wirebits.github.io/SerialConsole/).
+2. Click on Connect button.
+   - In pop-up, select your device.
+   - Click on `Connect` button.
+3. Type `help` and hit enter to get list of supported commands.
